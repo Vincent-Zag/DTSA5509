@@ -1,0 +1,25 @@
+Deliverable 1 
+
+A Jupyter notebook showing a supervised learning problem description, EDA procedure, analysis (model building and training), result, and discussion/conclusion. 
+
+Suppose your work becomes so large that it doesn’t fit into one notebook (or you think it will be less readable by having one large notebook). In that case, you can make several notebooks or scripts in a GitHub repository (as deliverable 3) and submit a report-style notebook or pdf instead.
+
+If your project doesn't fit into Jupyter notebook format (E.g. you built an app that uses ML), write your approach as a report and submit it in a pdf form.
+
+
+Deliverable 2
+
+A video presentation or demo of your work. The presentation should be a condensed version as if you're doing a short pitch to advertise your work, so please focus on the highlights:
+
+    What problem do you solve?
+
+    What ML approach do you use, or what methods does your app use?
+
+    Show the result or run an app demo.
+
+The minimum video length is 5 min, the maximum length is 15 min. The recommended length is about 10 min. Submit the video in .mp4 format.
+
+
+Deliverable 3 
+
+A public project GitHub repository with your work (please also include the GitHub repo URL in your notebook/report and slides). 
